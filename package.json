@@ -1,0 +1,11 @@
+{
+  "name": "online-vault",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --dir my-vault dev",
+    "build": "pnpm --dir my-vault build",
+    "start": "pnpm --dir my-vault start",
+    "lint": "pnpm --dir my-vault lint"
+  },
+  "packageManager": "pnpm@10.33.0"
+}
